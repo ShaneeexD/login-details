@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.logindetails;
+ package com.logindetails;
 
 import com.google.inject.Provides;
 import net.runelite.api.*;

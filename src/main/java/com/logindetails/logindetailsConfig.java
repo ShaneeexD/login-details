@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.logindetails;
+package com.logindetails;
 
 import net.runelite.client.config.Config;
 import net.runelite.client.config.ConfigGroup;
